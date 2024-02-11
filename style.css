@@ -1,0 +1,12 @@
+.box {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #888888;
+}
+p {
+    text-align: justify;
+}
+h3 {
+    text-align: center;
+    color: #FF0000;
+}
